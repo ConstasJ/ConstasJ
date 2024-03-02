@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python,JavaScript,TypeScript and Node.js.
 - 💞️ I’m looking to collaborate on [Koishi.js](https://github.com/koishijs/koishi)
 - 📫 How to reach me:  
-Twitter: [Twitter](https://twitter.com/jerrypaullee)  
-Email: [QQ Mail](mailto://2020212726@qq.com)/[Gmail](mailto://jerrypaullee@gmail.com)
+Twitter: [Twitter](https://twitter.com/ConstasJ)  
+Email: [QQ Mail](mailto://constasj@qq.com)/[Gmail](mailto://jerrypaullee@gmail.com)
 
 <!---
 ConstasJ/ConstasJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
