@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ConstasJ
-- 👀 I’m interested in Genshin Impact,Several Japan Animes and Coding.
-- 🌱 I’m currently learning Python,JavaScript,TypeScript and Node.js.
-- 💞️ I’m looking to collaborate on [Koishi.js](https://github.com/koishijs/koishi)
+- 👀 I’m interested in Some games like Blue Archive, Hatsune Miku: Colorful Stage and BanG Dream!, Several Japan Animes and Coding.
+- 🌱 I’m currently learning Golang and Rust.
 - 📫 How to reach me:  
 Twitter: [Twitter](https://twitter.com/ConstasJ)  
 Email: [QQ Mail](mailto://constasj@qq.com)/[Gmail](mailto://jerrypaullee@gmail.com)
